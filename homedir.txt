@@ -1,0 +1,19 @@
+11/10/2021  09:18    <DIR>          .
+11/10/2021  09:18    <DIR>          ..
+23/09/2021  09:44    <DIR>          .eclipse
+16/09/2021  10:24    <DIR>          3D Objects
+16/09/2021  10:24    <DIR>          Contacts
+19/10/2021  10:33    <DIR>          Desktop
+20/09/2021  11:47    <DIR>          Documents
+18/10/2021  08:16    <DIR>          Downloads
+16/09/2021  10:24    <DIR>          Favorites
+16/09/2021  10:24    <DIR>          Links
+16/09/2021  10:24    <DIR>          Music
+16/09/2021  10:25    <DIR>          OneDrive
+16/09/2021  10:24    <DIR>          Pictures
+16/09/2021  10:24    <DIR>          Saved Games
+16/09/2021  10:24    <DIR>          Searches
+20/09/2021  11:46    <DIR>          Videos
+11/10/2021  09:18    <DIR>          workspace
+               0 File              0 byte
+              17 Directory  145.487.843.328 byte disponibili
