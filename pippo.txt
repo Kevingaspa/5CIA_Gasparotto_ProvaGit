@@ -1,0 +1,3 @@
+C:\Users\in5c08\Desktop\5CIA_Gasparotto_ProvaGit>git branch --list
+  dev
+* main
